@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"hola, como anda toda la raza?";
+    ci
+
+    return 0;
+}
